@@ -1,0 +1,17 @@
+name: vision_analysis
+purpose: Analyze an image at ingestion time only.
+fields:
+  - caption
+  - dense_caption
+  - objects
+  - scene
+  - actions
+  - emotion
+  - context
+  - ocr_text
+  - ocr_blocks
+  - raw_analysis
+rules:
+  - This prompt is not used during query-time full-image traversal.
+  - All outputs must be persisted with model name and version.
+

@@ -1,0 +1,2 @@
+"""Agentic image RAG package."""
+

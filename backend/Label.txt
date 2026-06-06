@@ -1,0 +1,11 @@
+241-251tiff-fixed_merged_batch_005_0001_crop_0000.png  0
+241-251tiff-fixed_merged_batch_005_0002_crop_0000.png  1
+241-251tiff-fixed_merged_batch_005_0002_crop_0001.png  1
+241-251tiff-fixed_merged_batch_005_0002_crop_0002.png  1
+241-251tiff-fixed_merged_batch_005_0002_crop_0003.png  1
+241-251tiff-fixed_merged_batch_005_0003_crop_0001.png  0
+241-251tiff-fixed_merged_batch_005_0003_crop_0003.png  1
+241-251tiff-fixed_merged_batch_005_0003_crop_0004.png  0
+241-251tiff-fixed_merged_batch_005_0003_crop_0005.png  0
+241-251tiff-fixed_merged_batch_005_0003_crop_0006.png  0
+241-251tiff-fixed_merged_batch_005_0003_crop_0007.png  0

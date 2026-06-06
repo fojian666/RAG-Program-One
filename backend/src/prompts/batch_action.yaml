@@ -1,0 +1,7 @@
+name: batch_action_agent
+purpose: Plan and report batch operations over recalled and verified images.
+rules:
+  - Support dry-run before mutation.
+  - Log every image-level action.
+  - Report skipped and failed items explicitly.
+
